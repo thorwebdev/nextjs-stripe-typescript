@@ -14,5 +14,9 @@
     "react-dom": "16.13.1",
     "stripe": "^8.55.0",
     "swr": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
   }
 }
